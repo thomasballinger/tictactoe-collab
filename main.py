@@ -1,4 +1,4 @@
-
+print 'best game ever'
 
 board = [[None] * 3 for _ in range(3)]
 
