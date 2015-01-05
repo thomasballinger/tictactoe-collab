@@ -1,4 +1,4 @@
-print 'best game ever'
+print 'Welcome to Tic Tac Toe'
 
 board = [[None] * 3 for _ in range(3)]
 
